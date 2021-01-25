@@ -1,18 +1,23 @@
-# reading-note
-This is my repo for my codefellows reading notes.
+#Growth mindeset is...
+continous improvement - like the Agile objective.  It's a state of mind that one must deploy to simply, grow.  The adage, "no pain, no gain" sums it up best.  By not seeing higher skilled individuals as threats, but, as inspiration, is the difference between having a growth mindeset and not so.
 
-## Author
-Jeremy Brazell
+##I can keep myself in a growth mindeset by:
 
-### Growth Mindset
-- Item 1
-- Item 2
-- Item 3
+1. continuously reminding myself that I can always improve
+1. remembering that everyone has something to teach me
+1. keeping good habits that prevent me from deviating from the growth mindset path
 
-### Ordered List
-1. Item 1
-1. Item 2
-1. Item 3
-1. Item 4
-1. Item 5
+##This is...
 
+1. ~~Strikethrough~~
+1. **boldtext**
+1. >a quote that isn't necessarily a quote, but could be a quote if someone said it.
+1. a list of things
+-toothbrush
+-toothpaste
+-mirror
+1.task list
+[x]woke up
+[x]made coffee
+[x]took shower
+[x]logged into class
