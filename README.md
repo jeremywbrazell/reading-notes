@@ -16,6 +16,7 @@ continous improvement - like the Agile objective.  It's a state of mind that one
 -toothbrush
 -toothpaste
 -mirror
+
 1.task list
 [x]woke up
 [x]made coffee
