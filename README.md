@@ -2,7 +2,9 @@ About me:
 
 I'm Jeremy Brazell.
 
-My Github address is: 
+My Github address is: https://boopbopbeep78.github.io/reading-notes/
+
+NOTE: Perhaps I should change my user name to my actual name?
 
 #Growth mindeset is...
 continous improvement - like the Agile objective.  It's a state of mind that one must deploy to simply, grow.  The adage, "no pain, no gain" sums it up best.  By not seeing higher skilled individuals as threats, but, as inspiration, is the difference between having a growth mindeset and not so.
