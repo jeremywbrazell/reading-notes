@@ -4,5 +4,5 @@
 Jeremy Brazell
 
 # Table of Contents for Code 102
-- [Growth Mindset] (class01.md)
-- [Coders Computer] (class02.md)
+- [Growth Mindset](class01.md)
+- [Coders Computer](class02.md)
