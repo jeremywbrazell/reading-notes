@@ -69,6 +69,9 @@ This commits changes for the file or files.  Can have one commit message for mul
 ## Pushing Changes
 $ git push origin master
 
+Do not use git add . when only uploading certain files.
+
+
 
 
 
