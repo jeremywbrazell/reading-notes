@@ -46,6 +46,30 @@ $ git clone https://github.com/test
 1. You stage the modified file.
 1. Then, you commit staged changes.
 
+## Checking File Status
+$ git status
+
+## ACP Process (Add, Commit, Push)
+
+### Tracking & Staging a New File  
+
+### Single File
+ git add filename
+
+### All Files
+$ git add *
+After using these commands, files are tracked and staged for committing.
+Then do “git status” to see if it took.
+
+
+## Committing a File
+$ git commit -m “made change x,y,z”
+This commits changes for the file or files.  Can have one commit message for multiple files.
+
+## Pushing Changes
+$ git push origin master
+
+
 
 
 
