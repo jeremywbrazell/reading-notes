@@ -36,3 +36,16 @@ Without configuration of a default text editor, Git will use the system’s defa
 
 ### Checking Settings
 To do so, use the git config - - list command
+
+## Cloning
+You can clone a copy of an existing Git repository from a particular server
+$ git clone https://github.com/test
+
+## The Life Cycle of File Status
+1. After you edit a file, Git flags it as modified because of changes made after the previous commit.
+1. You stage the modified file.
+1. Then, you commit staged changes.
+
+
+
+
