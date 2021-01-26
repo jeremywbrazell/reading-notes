@@ -1,7 +1,4 @@
-#reading-notes
-
-## Author
-Jeremy Brazell
+Hi!  I'm Jeremy Brazell.  This is my repo for Class 102.
 
 # Table of Contents for Code 102
 - [Growth Mindset](class01.md)
