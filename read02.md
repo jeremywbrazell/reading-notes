@@ -13,17 +13,17 @@ In addition to text editors, there are IDE's (Integrated Development Environment
 include a text editor, a file manager, compiler, and debugger.
 
 
-##Command Line
+## Command Line
 A command line, or terminal, is a Linux GUI (graphical user interface), used to manually navigate one's computer.  The way it works is that you are provided with a 
 prompt and you open a terminal, you enter in a command and modify the behavior via an option.
 
 There is also a thing called a shell which is part of the OS and determines how the terminal will behave.
 
-##Basic Navigation
+## Basic Navigation
 Shortcuts include "pwd," "ls," & "cd." 
 "pwd" means print working directory and
 "ls" lists the contents of the directory.
 "cd" means change directories and allows you to do that.
 
-##About Files
+## About Files
 ls - a lists the contents of a directory, along w/ hidden files.  Everything is a file under Linux.  Linux is an extensionless system and is also case sensitive.
