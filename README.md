@@ -6,3 +6,4 @@
 - [The Coder's Computer Reading](read02.md)
 - [Git Notes](read03.md)
 - [HTML5 Notes](read04.md)
+- [CSS Notes](read05.md)
