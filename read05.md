@@ -30,6 +30,6 @@ Can use CSS rules with an HTML page  while inside a <style> tag
  - adjacent selector
  - general sibling selector
 
-
+.
 
 ## 
