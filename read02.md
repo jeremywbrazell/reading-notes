@@ -1,7 +1,7 @@
 # What I Learned From The Reading Assignments
 
 ## Text Editors
-Text editors are software used to write/save/store code, simply put.  They can be pretty basic (notepad on Windows or Text Edit on Mac, or, can come with a variety
+Text editors is software used to write/save/store code, simply put.  They can be pretty basic (notepad on Windows or Text Edit on Mac, or, can come with a variety
 of features like code completion or syntax highlighting and are generally free for the most part.  Syntax highlighting is a good way to oranize the different attributes
 and elements of the code entered.
 
