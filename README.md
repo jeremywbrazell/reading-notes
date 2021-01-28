@@ -8,3 +8,4 @@
 - [HTML5 Notes](read04.md)
 - [CSS Notes](read05.md)
 - [Javascript](Read06a.md)
+- [How Computers Work](read06b.md   )
