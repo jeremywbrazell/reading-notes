@@ -10,3 +10,4 @@
 - [Javascript](Read06a.md)
 - [How Computers Work](read06b.md)
 - [Javascript & JQuery](read07.md)
+- [Javascript & JQuery Part 2](read08.md)
