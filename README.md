@@ -1,6 +1,6 @@
-# Hi!  I'm Jeremy Brazell.  This is my repo for Class 102.
+# Table of Contents
 
-## Table of Contents for Code 102
+## Code 102 Reading Notes
 - [Growth Mindset](class01.md)
 - [Coders Computer](class02.md)
 - [The Coder's Computer Reading](read02.md)
@@ -11,3 +11,20 @@
 - [How Computers Work](read06b.md)
 - [Javascript & JQuery](read07.md)
 - [Javascript & JQuery Part 2](read08.md)
+
+## Code 201 Reading Notes
+- [Introdoctory HTML & Javascript](class-01.md)
+- [HTML Text, CSS Introduction, and Basic Javascript Instructions](class-02.md)
+- [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
+- [HTML Links, CSS, Layout, JS Functions](class-04.md)
+- [HTML Images, CSS Color & Text](class-05.md)
+- [JS Object Literals, The DOM](class-06.md)
+- [HTML Tables; JS Constructor Functions](class-07.md)
+- [More CSS Layout](class-08.md)
+- [Forms & Events](class-09.md)
+- [JS Debugging](class-10.md)
+- [Assorted Topics](class-11.md)
+- [Docs For the HTML <canvas> Element & Chart.js](class-12.md)
+- [Local Storage](class-13.md)
+- [CSS Transforms, Transitions, and Animations](class-14a.md)
+- [What Google Learned About Teams](class-14b.md)
