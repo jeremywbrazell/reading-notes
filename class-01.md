@@ -33,10 +33,10 @@
     1. Define the goal
     1. Design the scipt
     1. Code each step
-- Objects are
-- Properties are
-- Events are
-- Methods are
+- Objects are variables that contain the properties of a script.
+- Properties are characteristics of objects.
+- Events are instances when the user controls a webpage
+- Methods are actions that can be performed on objects.
 - Web browsers are programs built from objects
 - Javascript runs where it's found in the HTML (browsers read from top to bottom)
 - Scripts are first declared, then they must be invoked
