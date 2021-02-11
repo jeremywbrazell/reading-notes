@@ -4,12 +4,12 @@
 
 ### Numbered Lists
 - lists that start w/ a #
-```<ol>``` Ordered List
-```<li>``` List Item
+- ```<ol>``` Ordered List
+- ```<li>``` List Item
 
 ### Unordered (Bullet) Lists
-```<ul>``` Unordered List
-```<li>``` List Item
+- ```<ul>``` Unordered List
+- ```<li>``` List Item
 
 ### Definition Lists
 ```<dl>``` Definition List
