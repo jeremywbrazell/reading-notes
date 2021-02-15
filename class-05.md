@@ -17,12 +17,13 @@
     1. HSLA
     
 ### Opacity
-    Ex: 
-    ```
+- Ex: 
+```
     p.on {
         background-color: rgb(0,0,0);
-        opacity: 0.5;}
-    ```
+        opacity: 0.5;
+    }
+```
 
 ## Text” (pp.264-299)
 
