@@ -25,13 +25,13 @@
 ```lineNumber = line number of error```
 
 ### 7 Built-In Error Objects
-1. ``` Error = generic error```
-1. ```SyntaxError = syntax has not been followed```
-1. ```ReferenceError = tried to references a variable that is not declared/within scope```
-1. ```TypeError = unexpected data type that cannot be coerced```
-1. ```RangeError = #'s not in acceptable range```
-1. ```URIError = encodeURI(), decodeURI, & similar methods used incorrectly```
-1. ```EvalError = eval() function used incorrectly```
+1. ``` Error``` = generic error
+1. ```SyntaxError``` = syntax has not been followed
+1. ```ReferenceError``` = tried to references a variable that is not declared/within scope
+1. ```TypeError``` = unexpected data type that cannot be coerced
+1. ```RangeError``` = #'s not in acceptable range
+1. ```URIError``` = encodeURI(), decodeURI, & similar methods used incorrectly
+1. ```EvalError``` = eval() function used incorrectly
 
 ## Debugging Workflow
 1. Where is the Problem?
