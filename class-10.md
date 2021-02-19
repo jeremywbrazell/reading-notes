@@ -19,10 +19,10 @@
 ## Error Objects
 
 ### Properties of Error Objects
-```name = type of error```
-```message = description```
-```fileNumber = name of the JS file```
-```lineNumber = line number of error```
+```name``` = type of error
+```message``` = description
+```fileNumber``` = name of the JS file
+```lineNumber``` = line number of error
 
 ### 7 Built-In Error Objects
 1. ``` Error``` = generic error
