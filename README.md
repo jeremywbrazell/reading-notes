@@ -1,6 +1,6 @@
 # Table of Contents
 
-## Code 102 Reading Notes
+## Code 102 
 - [Growth Mindset](class01.md)
 - [Coders Computer](class02.md)
 - [The Coder's Computer Reading](read02.md)
@@ -12,7 +12,7 @@
 - [Javascript & JQuery](read07.md)
 - [Javascript & JQuery Part 2](read08.md)
 
-## Code 201 Reading Notes
+## Code 201 
 - [Introdoctory HTML & Javascript](class-01.md)
 - [HTML Text, CSS Introduction, and Basic Javascript Instructions](class-02.md)
 - [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
@@ -24,7 +24,24 @@
 - [Forms & Events](class-09.md)
 - [JS Debugging](class-10.md)
 - [Assorted Topics](class-11.md)
-- [Docs For the HTML <canvas> Element & Chart.js](class-12.md)
+- [Docs For the HTML canvas Element & Chart.js](class-12.md)
 - [Local Storage](class-13.md)
 - [CSS Transforms, Transitions, and Animations](class-14a.md)
 - [What Google Learned About Teams](class-14b.md)
+
+## Code 301 
+- [Introduction to React and Components](class-3-01.md)
+- [State & Props](class-3-02.md)
+- [Passing Functions as Props](class-3-03.md)
+- [React & Forms](class-3-04.md)
+- [Putting It All Together](class-3-05.md)
+- [NODE.JS](class-3-06.md)
+- [REST](class-3-07.md)
+- [APIs](class-3-08.md)
+- [Functional Programming](class-3-09.md)
+- [In Memory Storage](class-3-10.md)
+- [Authentication](class-3-11.md)
+- [Mongo & Mongoose](class-3-12.md)
+- [CRUD](class-3-13.md)
+- [Updating Resources](class-3-14.md)
+- [Diversity & Inclusion in the Tech Industry](class-3-15.md)
