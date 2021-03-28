@@ -31,4 +31,4 @@ callMyself();
 1. Range Errors
 1. Type Errors
 
-
+[MDN Article: JS Error Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
