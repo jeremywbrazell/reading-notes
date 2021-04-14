@@ -44,8 +44,7 @@
 
 > “The difference between successful people and really successful people is that really successful people say no to almost everything.” -Warren Buffet
 
-> “People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.”
-> - Steve Jobs
+> “People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.” - Steve Jobs
 
 # [How To Think Like A Programmer]( https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
 
@@ -69,12 +68,12 @@
 
 # [The 5 Why’s](https://www.mindtools.com/pages/article/newTMC_5W.htm)
 
--	Technique developed by Sakichi Toyoda in the 1930’s to drill down on problems
--	Decision making is based on in-depth. Understanding of what’s actually happening
--	Uses counter-measures rather than solutions
--	May not always be suitable for some problems (complex or critical) because it may lead one to only focus on a single track or limited amount
-o	There may be multiple causes
-o	Should use cause & effect analysis or failure mode & effects analysis instead
+    -	Technique developed by Sakichi Toyoda in the 1930’s to drill down on problems
+    -	Decision making is based on in-depth. Understanding of what’s actually happening
+    -	Uses counter-measures rather than solutions
+    -	May not always be suitable for some problems (complex or critical) because it may lead one to only focus on a single track or limited amount
+    o	There may be multiple causes
+    o	Should use cause & effect analysis or failure mode & effects analysis instead
 
 **How To Use the 5 Whys**
     1.Assemble A Team
