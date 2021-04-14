@@ -8,27 +8,27 @@
     1. Trying to over solve the solution on the first try
 
 ## Simple Steps To Solve Programming Problems (Spend at least 70% on steps 1-3)
-1.	Read the problem twice
-2.	Solve manually with 3 sets of sample data
-3.	Optimize the manual steps
-4.	Write the manual steps as comments or pseudo-code
-5.	Replace the comments or pseudo-code w/ real code
-6.	Optimize the real code
+    1.	Read the problem twice
+    2.	Solve manually with 3 sets of sample data
+    3.	Optimize the manual steps
+    4.	Write the manual steps as comments or pseudo-code
+    5.	Replace the comments or pseudo-code w/ real code
+    6.	Optimize the real code
 
 > “Nothing can be automated that cannot be done manually!”
 
 ## The [Mathematical Induction]( https://en.wikipedia.org/wiki/Mathematical_induction) Approach
--	Use this to solve for step 1 first, then 2
+(Use this to solve for step 1 first, then 2)
 
 # [Pretend Your Time Is Worth $1000/Hour & You’ll Become 100x More Productive]( https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)
 
 (Programming is automation.)
 
 **If your time was worth this amount…**
-    - What would your life look like?
-    - What people would you stop putting up with?
-    - What problems would you stop wasting time on?
-    - What things would you stop — and start — doing?
+    1. What would your life look like?
+    1. What people would you stop putting up with?
+    1. What problems would you stop wasting time on?
+    1. What things would you stop — and start — doing?
 
 ## Busyness & Stress Are The Enemy
 
@@ -50,11 +50,11 @@
 # [How To Think Like A Programmer]( https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
 
 **Best way to solve a problem:**
-1.	Have a framework
-2.	Practice it
+    1.	Have a framework
+    2.	Practice it
 
-[Think Like a Programmer: An Introduction to Creative Problem Solving
-](https://www.amazon.com/dp/1593274246/?tag=richardreeze-20)
+**[Think Like a Programmer: An Introduction to Creative Problem Solving Book
+](https://www.amazon.com/dp/1593274246/?tag=richardreeze-20)**
 
 > “The biggest mistake I see new programmers make is focusing on learning syntax instead of learning how to solve   problems.” — V. Anton Spraul
 
