@@ -80,11 +80,11 @@
 1. Define the Problem
 1. Ask the First “Why?”
 1. Ask “Why?” Four More Times
+1. Know When To Stop
+    -You may reach the root cause before the 5th why
 
 ![](5whys.png)
 
-5. Know When To Stop
-    -You may reach the root cause before the 5th why
 
 
 
