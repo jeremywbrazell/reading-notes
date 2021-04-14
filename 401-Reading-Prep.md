@@ -50,8 +50,8 @@
 # [How To Think Like A Programmer]( https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
 
 **Best way to solve a problem:**
-    1.	Have a framework
-    2.	Practice it
+1.	Have a framework
+2.	Practice it
 
 [Think Like a Programmer: An Introduction to Creative Problem Solving
 ](https://www.amazon.com/dp/1593274246/?tag=richardreeze-20)
