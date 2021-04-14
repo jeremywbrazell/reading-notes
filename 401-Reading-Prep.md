@@ -68,12 +68,12 @@
 
 # [The 5 Why’s](https://www.mindtools.com/pages/article/newTMC_5W.htm)
 
-    -	Technique developed by Sakichi Toyoda in the 1930’s to drill down on problems
-    -	Decision making is based on in-depth. Understanding of what’s actually happening
-    -	Uses counter-measures rather than solutions
-    -	May not always be suitable for some problems (complex or critical) because it may lead one to only focus on a single track or limited amount
-    o	There may be multiple causes
-    o	Should use cause & effect analysis or failure mode & effects analysis instead
+    - Technique developed by Sakichi Toyoda in the 1930’s to drill down on problems
+    - Decision making is based on in-depth. Understanding of what’s actually happening
+    - Uses counter-measures rather than solutions
+    - May not always be suitable for some problems (complex or critical) because it may lead one to only focus on a single track or limited amount
+    - There may be multiple causes
+    - Should use cause & effect analysis or failure mode & effects analysis instead
 
 ### How To Use the 5 Whys
     1. Assemble A Team
