@@ -7,7 +7,7 @@
 1. Make sure you take enough time to understand the problem completely before attempting to solve it
 1. Trying to over solve the solution on the first try
 
-## Simple Steps To Solve Programming Problems
+## Simple Steps To Solve Programming Problems (Spend at least 70% on steps 1-3)
 1.	Read the problem twice
 2.	Solve manually with 3 sets of sample data
 3.	Optimize the manual steps
@@ -15,23 +15,20 @@
 5.	Replace the comments or pseudo-code w/ real code
 6.	Optimize the real code
 
-**Spend at least 70% on steps 1-3**
-
 > **“Nothing can be automated that cannot be done manually!”**
 
 ## The [Mathematical Induction]( https://en.wikipedia.org/wiki/Mathematical_induction) Approach
 -	Use this to solve for step 1 first, then 2
 
-
 # [Pretend Your Time Is Worth $1000/Hour & You’ll Become 100x More Productive]( https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)
 
-- Programming is automation.
+(Programming is automation.)
 
-If your time was worth this amount…
-- What would your life look like?
-- What people would you stop putting up with?
-- What problems would you stop wasting time on?
-- What things would you stop — and start — doing?
+**If your time was worth this amount…**
+    - What would your life look like?
+    - What people would you stop putting up with?
+    - What problems would you stop wasting time on?
+    - What things would you stop — and start — doing?
 
 > “Busyness” Isn’t a Badge of Honor; It’s a Sign of Weakness
 
@@ -63,12 +60,12 @@ If your time was worth this amount…
 
 > “If you can’t explain something in simple terms, you don’t understand it.” — Richard Feynman
 
-
-1. Understand
-2. Plan
-3. Divide
-4. Stuck?
-5. Practice
+**Follow These Steps**
+    1. Understand
+    2. Plan
+    3. Divide
+    4. Stuck?
+    5. Practice
 
 # [The 5 Why’s](https://www.mindtools.com/pages/article/newTMC_5W.htm)
 
