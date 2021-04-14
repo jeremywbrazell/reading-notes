@@ -19,21 +19,21 @@
 
 > **“Nothing can be automated that cannot be done manually!”**
 
--	Programming is automation.
-
 ## The [Mathematical Induction]( https://en.wikipedia.org/wiki/Mathematical_induction) Approach
 -	Use this to solve for step 1 first, then 2
 
 
 # [Pretend Your Time Is Worth $1000/Hour & You’ll Become 100x More Productive]( https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)
 
+- Programming is automation.
+
 If your time was worth this amount…
 - What would your life look like?
--	What people would you stop putting up with?
--	What problems would you stop wasting time on?
--	What things would you stop — and start — doing?
+- What people would you stop putting up with?
+- What problems would you stop wasting time on?
+- What things would you stop — and start — doing?
 
-> **“Busyness” Isn’t a Badge of Honor; It’s a Sign of Weakness**
+> “Busyness” Isn’t a Badge of Honor; It’s a Sign of Weakness
 
 > **“Being busy is a form of mental laziness.” -Tim Ferriss**
 
