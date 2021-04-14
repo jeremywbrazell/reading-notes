@@ -35,33 +35,33 @@ If your time was worth this amount…
 
 > “Busyness” Isn’t a Badge of Honor; It’s a Sign of Weakness
 
-> **“Being busy is a form of mental laziness.” -Tim Ferriss**
+> “Being busy is a form of mental laziness.” -Tim Ferriss
 
-> **“Indeed the state of all who are preoccupied is wretched, but the most wretched are those who are toiling not even at their own preoccupations…If such people want to know how short their lives are, let them reflect how small a portion is their own.”**
+> “Indeed the state of all who are preoccupied is wretched, but the most wretched are those who are toiling not even at their own preoccupations…If such people want to know how short their lives are, let them reflect how small a portion is their own.”
 
 **Busyness & Stress Are The Enemy**
 
-> **“People are unhappy in large part because they are confused about what is valuable.” -William Irvine**
+> “People are unhappy in large part because they are confused about what is valuable.” -William Irvine
 
-> **“Busyness and exhaustion should be your enemy. If you’re chronically stressed and up late working, you’re doing something wrong. Do less. But do what you do with complete, hard focus. Then when you’re done be done, and go enjoy the rest of your day.”**
+> “Busyness and exhaustion should be your enemy. If you’re chronically stressed and up late working, you’re doing something wrong. Do less. But do what you do with complete, hard focus. Then when you’re done be done, and go enjoy the rest of your day.”
 
-> **“The difference between successful people and really successful people is that really successful people say no to almost everything.” -Warren Buffet**
+> “The difference between successful people and really successful people is that really successful people say no to almost everything.” -Warren Buffet
 
-> **“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.”**
+> “People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.”
 > - Steve Jobs
 
 # [How To Think Like A Programmer]( https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
 
--	Best way to solve a problem:
-1.	Have a framework
-2.	Practice it
+**Best way to solve a problem:**
+    1.	Have a framework
+    2.	Practice it
 
 [Think Like a Programmer: An Introduction to Creative Problem Solving
 ](https://www.amazon.com/dp/1593274246/?tag=richardreeze-20)
 
-> **“The biggest mistake I see new programmers make is focusing on learning syntax instead of learning how to solve   problems.” — V. Anton Spraul**
+> “The biggest mistake I see new programmers make is focusing on learning syntax instead of learning how to solve   problems.” — V. Anton Spraul
 
-> **“If you can’t explain something in simple terms, you don’t understand it.” — Richard Feynman**
+> “If you can’t explain something in simple terms, you don’t understand it.” — Richard Feynman
 
 
 1. Understand
@@ -80,15 +80,15 @@ o	There may be multiple causes
 o	Should use cause & effect analysis or failure mode & effects analysis instead
 
 **How To Use the 5 Whys**
-1.Assemble A Team
-2.Define the Problem
-3.Ask the First “Why?”
-4.Ask “Why?” Four More Times
+    1.Assemble A Team
+    2.Define the Problem
+    3.Ask the First “Why?”
+    4.Ask “Why?” Four More Times
 
 ![](5whys.png)
 
-5.Know When To Stop
-    -You may reach the root cause before the 5th why
+    5.Know When To Stop
+        -You may reach the root cause before the 5th why
 
 
 
