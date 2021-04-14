@@ -1,11 +1,11 @@
 # [How to Solve Programming Problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
 
 ## Common Mistakes (interviews)
-1. Improper allocation of time
-1. Trying to write code as soon as possible
-1. Must resist the urge
-1. Make sure you take enough time to understand the problem completely before attempting to solve it
-1. Trying to over solve the solution on the first try
+    1. Improper allocation of time
+    1. Trying to write code as soon as possible
+    1. Must resist the urge
+    1. Make sure you take enough time to understand the problem completely before attempting to solve it
+    1. Trying to over solve the solution on the first try
 
 ## Simple Steps To Solve Programming Problems (Spend at least 70% on steps 1-3)
 1.	Read the problem twice
