@@ -30,13 +30,13 @@
     - What problems would you stop wasting time on?
     - What things would you stop — and start — doing?
 
+## Busyness & Stress Are The Enemy
+
 > “Busyness” Isn’t a Badge of Honor; It’s a Sign of Weakness
 
 > “Being busy is a form of mental laziness.” -Tim Ferriss
 
 > “Indeed the state of all who are preoccupied is wretched, but the most wretched are those who are toiling not even at their own preoccupations…If such people want to know how short their lives are, let them reflect how small a portion is their own.”
-
-**Busyness & Stress Are The Enemy**
 
 > “People are unhappy in large part because they are confused about what is valuable.” -William Irvine
 
