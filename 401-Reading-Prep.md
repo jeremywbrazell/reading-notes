@@ -25,10 +25,10 @@
 (Programming is automation.)
 
 **If your time was worth this amount…**
-    1. What would your life look like?
-    1. What people would you stop putting up with?
-    1. What problems would you stop wasting time on?
-    1. What things would you stop — and start — doing?
+    - What would your life look like?
+    - What people would you stop putting up with?
+    - What problems would you stop wasting time on?
+    - What things would you stop — and start — doing?
 
 ## Busyness & Stress Are The Enemy
 
