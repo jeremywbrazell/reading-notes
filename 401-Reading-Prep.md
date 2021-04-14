@@ -15,7 +15,7 @@
 5.	Replace the comments or pseudo-code w/ real code
 6.	Optimize the real code
 
-> **“Nothing can be automated that cannot be done manually!”**
+> “Nothing can be automated that cannot be done manually!”
 
 ## The [Mathematical Induction]( https://en.wikipedia.org/wiki/Mathematical_induction) Approach
 -	Use this to solve for step 1 first, then 2
