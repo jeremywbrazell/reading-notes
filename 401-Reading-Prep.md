@@ -75,11 +75,11 @@
     o	There may be multiple causes
     o	Should use cause & effect analysis or failure mode & effects analysis instead
 
-**How To Use the 5 Whys**
-    1.Assemble A Team
-    2.Define the Problem
-    3.Ask the First “Why?”
-    4.Ask “Why?” Four More Times
+### How To Use the 5 Whys
+    1. Assemble A Team
+    1. Define the Problem
+    1. Ask the First “Why?”
+    1. Ask “Why?” Four More Times
 
 ![](5whys.png)
 
