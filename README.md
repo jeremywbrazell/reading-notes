@@ -50,7 +50,7 @@
 - [401 Reading Prep](401-Reading-Prep.md)
 - [Node Ecosystem, TDD, CI/CD](class-4-01.md)
 - [Express](class-4-02.md)
-- [The Coder's Computer Reading](Express REST API)
+- [The Coder's Computer Reading](class-4-03.md)
 - [Data Modeling](class-4-04.md)
 - [Linked Lists](class-4-05.md)
 - [Authentication](class-4-06.md)
