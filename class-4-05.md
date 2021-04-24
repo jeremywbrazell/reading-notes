@@ -1,5 +1,4 @@
 ## Linked List
-[link](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 
 **Good Rule of Thumb**
 - efficient when adding & removing most elements, but can be extrememly slow to search and find a single element
