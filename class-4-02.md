@@ -42,10 +42,10 @@ The differences have to do with the way the server processes the enclosed entity
 
 Terms
 
-**Web Server** - computer software and underlying hardware that accepts requests via HTTP, the network protocol created to distribute web pages, or its secure variant HTTPS [wikipedia](https://en.wikipedia.org/wiki/Web_server)
-**Express** - backend web application for Node.js [wikipiedia](https://en.wikipedia.org/wiki/Express.js)
-**Routing** - process of selecting a path for traffic in a network or between multiple networks [wikipedia](https://en.wikipedia.org/wiki/Routing)
-**WRRC** - web request response cycle [link](https://medium.com/@jen_strong/the-request-response-cycle-of-the-web-1b7e206e9047)
+- **Web Server** - computer software and underlying hardware that accepts requests via HTTP, the network protocol created to distribute web pages, or its secure variant HTTPS [wikipedia](https://en.wikipedia.org/wiki/Web_server)
+- **Express** - backend web application for Node.js [wikipiedia](https://en.wikipedia.org/wiki/Express.js)
+- **Routing** - process of selecting a path for traffic in a network or between multiple networks [wikipedia](https://en.wikipedia.org/wiki/Routing)
+- **WRRC** - web request response cycle [link](https://medium.com/@jen_strong/the-request-response-cycle-of-the-web-1b7e206e9047)
 
 ## Preview
 
@@ -65,8 +65,8 @@ What are you most excited about trying to implement or see how it works?
 - more of middleware's uses
 
 ## Bookmarks
-[nodeJS.docs]()
-[npm docs]()
-[express docs]()
-[http status codes]()
-[supertest]()
+- [nodeJS.docs]()
+- [npm docs]()
+- [express docs]()
+- [http status codes]()
+- [supertest]()
