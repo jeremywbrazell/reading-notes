@@ -56,3 +56,6 @@ otherwise known as a key, is a communicable, unforgeable token of authority. It 
 
 1. **What are you most excited about trying to implement or see how it works?**
 - How to reference the [node.js](https://nodejs.org/api/events.html) doc.
+
+**Other Docs**
+[EDP & OOP](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)
