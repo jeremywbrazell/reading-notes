@@ -17,13 +17,13 @@ calling next after response has been returned.
 
 ## Definitions
 
-[Middleware:](https://en.wikipedia.org/wiki/Middleware) software that makes it easier for devs to implement communication and input/output
-[Request Object:](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524948(v=vs.90)) retrieves the values that the client browser passed to the server during an HTTP request
-[Response Object:](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms525405(v=vs.90))used to send output to the client
-[Application Middleware:](https://expressjs.com/en/guide/using-middleware.html#middleware.application) middleware bound to the app object by using ```app.use()``` & ```app.METHOD()``` functions
-[Routing Middleware:](https://expressjs.com/en/guide/using-middleware.html#middleware.router)works in the same way as application-level middleware, except it is bound to an instance of ```express.Router()```.
-[Test Driven Development:](https://en.wikipedia.org/wiki/Test-driven_development)sw dev process that relies on sw requirements being converted to test cases before sw is fully developed, and tracking all sw development by repeatedly testing the sw
-[Behavioral Testing:](https://www.tutorialspoint.com/software_testing_dictionary/behaviour_testing.htm#:~:text=Behavioural%20Testing%20is%20a%20testing,is%20usually%20a%20functional%20testing.) testing of the external behaviour of the program, also known as black box testing. It is usually a functional testing.
+- [Middleware:](https://en.wikipedia.org/wiki/Middleware) software that makes it easier for devs to implement communication and input/output
+- [Request Object:](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524948(v=vs.90)) retrieves the values that the client browser passed to the server during an HTTP request
+- [Response Object:](https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms525405(v=vs.90))used to send output to the client
+- [Application Middleware:](https://expressjs.com/en/guide/using-middleware.html#middleware.application) middleware bound to the app object by using ```app.use()``` & ```app.METHOD()``` functions
+- [Routing Middleware:](https://expressjs.com/en/guide/using-middleware.html#middleware.router)works in the same way as application-level middleware, except it is bound to an instance of ```express.Router()```.
+- [Test Driven Development:](https://en.wikipedia.org/wiki/Test-driven_development)sw dev process that relies on sw requirements being converted to test cases before sw is fully developed, and tracking all sw development by repeatedly testing the sw
+- [Behavioral Testing:](https://www.tutorialspoint.com/software_testing_dictionary/behaviour_testing.htm#:~:text=Behavioural%20Testing%20is%20a%20testing,is%20usually%20a%20functional%20testing.) testing of the external behaviour of the program, also known as black box testing. It is usually a functional testing.
 
 ## Preview
 
