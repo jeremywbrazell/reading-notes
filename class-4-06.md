@@ -44,7 +44,7 @@ BCrypt
 
 - 
 ## Referenced Articles
-[bycrypt docs](https://www.npmjs.com/package/bcrypt)
-[basic Auth](https://en.wikipedia.org/wiki/Basic_access_authentication)
-[OSWASP Auth Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
-[Securing Passwords](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)
+- [bycrypt docs](https://www.npmjs.com/package/bcrypt)
+- [basic Auth](https://en.wikipedia.org/wiki/Basic_access_authentication)
+- [OSWASP Auth Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+- [Securing Passwords](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)
