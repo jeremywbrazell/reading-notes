@@ -11,19 +11,19 @@ Entry into a building, laptops containing sensitive information, bank vaults, et
 to limit system access to authorized users based on specific needs and uses.
 
 **RBAC Model**
-S = Subject = A person or automated agent
-R = Role = Job function or title which defines an authority level
-P = Permissions = An approval of a mode of access to a resource
-SE = Session = A mapping involving S, R and/or P
-SA = Subject Assignment
-PA = Permission Assignment
-RH = Partially ordered Role Hierarchy. RH can also be written: ≥ (The notation: x ≥ y means that x inherits the permissions of y.)
-A subject can have multiple roles.
-A role can have multiple subjects.
-A role can have many permissions.
-A permission can be assigned to many roles.
-An operation can be assigned to many permissions.
-A permission can be assigned to many operations.
+- S = Subject = A person or automated agent
+- R = Role = Job function or title which defines an authority level
+- P = Permissions = An approval of a mode of access to a resource
+- SE = Session = A mapping involving S, R and/or P
+- SA = Subject Assignment
+- PA = Permission Assignment
+- RH = Partially ordered Role Hierarchy. RH can also be written: ≥ (The notation: x ≥ y means that x inherits the permissions of y.)
+- A subject can have multiple roles.
+- A role can have multiple subjects.
+- A role can have many permissions.
+- A permission can be assigned to many roles.
+- An operation can be assigned to many permissions.
+- A permission can be assigned to many operations.
 
 [Ref](https://en.wikipedia.org/wiki/Role-based_access_control)
 
