@@ -1,6 +1,8 @@
 # Socket.io
 
 1. **What is the benefit of transforming data into packets?**
+it enables new innovations, services, and business opportunitiesand is also the most cost-effective, efficient, and scalable networks for content delivery.
+[Ref](https://fntsoftware.com/blog/network-transformation-transitioning-to-packet-technology/)
 
 1. **UDP is often refereed to as a connectionless protocol. Why is this?**
 because No connection needs to be established between the source and destination before you transmit data.
