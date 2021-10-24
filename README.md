@@ -56,7 +56,7 @@
 - [Authentication](class-4-06.md)
 - [Bearer Authorization](class-4-07.md)
 - [Access Control (ACL)](class-4-08.md)
-- [?](class-4-09.md)
+- [Authorization/Authentication](class-4-09.md)
 - [Stacks and Queues](class-4-10.md)
 - [Event Driven Applications](class-4-11.md)
 - [Socket.io](class-4-12.md)
