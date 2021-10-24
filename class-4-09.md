@@ -16,7 +16,7 @@ ID or Access Tokens
 ## Vocab
 
 - **RBAC** (Role-Based Access Control): an approach to restricting system access to authorized users. It is an approach to implement mandatory access control (MAC) or discretionary access control (DAC)
-**3 Primary Rules Defined for RBAC**
+- **3 Primary Rules Defined for RBAC**
 1. Role assignment: A subject can exercise a permission only if the subject has selected or been assigned a role.
 1. Role authorization: A subject's active role must be authorized for the subject. With rule 1 above, this rule ensures that users can take on only roles for which they are authorized.
 1. Permission authorization: A subject can exercise a permission only if the permission is authorized for the subject's active role. With rules 1 and 2, this rule ensures that users can exercise only permissions for which they are authorized.
