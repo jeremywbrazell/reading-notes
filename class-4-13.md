@@ -1,3 +1,5 @@
+# Message Queues
+
 1. What does it mean that web sockets are bidirectional? Why is this useful?
 Whereas HTTP relies on a client request to receive a response from the server for every exchange, WebSockets allow for full-duplex bidirectional communication. This enables the server to send real-time updates asynchronously, without requiring the client to submit a request each time.
 - Benefits:
