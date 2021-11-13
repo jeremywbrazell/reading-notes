@@ -16,9 +16,8 @@
 ![Tree](tree.png)
 ## Binary Tree
 
- ### Traversals
 
-**2 Types:** Depth First & Breadth First
+**2 Types of Traversals:** Depth First & Breadth First
 
 **Depth First**
  prioritize going through the depth (height) of the tree first
