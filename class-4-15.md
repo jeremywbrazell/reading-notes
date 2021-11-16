@@ -71,7 +71,7 @@ iterates through the tree by going through each level of the tree node-by-node
 - searching for a new node: O(n)
 - node insertion using breadth first: O(w)
 
-**"Perfect Binary Tree:**
+**"Perfect Binary Tree":**
 where every non-leaf node has exactly 2 children
 
 ## Binary Search Trees
