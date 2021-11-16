@@ -24,14 +24,14 @@ the process of installing, configuring, and enabling a specific application or s
 
 ## Preview
 1. Which 3 things had you heard about previously and now have better clarity on?
-- pub/sub
-- the benefits of the cloud
-- the future of the cloud in regards to Web3
+    - pub/sub
+    - the benefits of the cloud
+    - the future of the cloud in regards to Web3
 
 1. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
-- AWS code
-- more on SNS & SQS
-- the different types of AWS certifications
+    - AWS code
+    - more on SNS & SQS
+    - the different types of AWS certifications
 
 1. What are you most excited about trying to implement or see how it works?
 I'm interested to hear more about Lamda and it's benefits.
