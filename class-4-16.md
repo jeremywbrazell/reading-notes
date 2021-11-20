@@ -12,14 +12,13 @@ a piece of computer hardware or software (computer program) that provides functi
 
 **1. What does it mean to “deploy” an application?**
 the process of installing, configuring, and enabling a specific application or set of applications, usually through an application manager (app manager) or software management system, to a specific URL on a server. Once the process of deploying the application(s) has been completed it becomes publicly accessible on the URL.
-
 [Ref](https://www.dialogic.com/glossary/application-deployment-)
 
 ## Vocab
 - **server:** defined above
 - **pub/sub(publisher/subscriber):** a messaging pattern where senders of messages, called publishers, do not program the messages to be sent directly to specific receivers, called subscribers, but instead categorize published messages into classes without knowledge of which subscribers, if any, there may be. 
-[Ref 1](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
-[Ref 2](https://cloud.google.com/pubsub/docs/overview)
+- [Ref 1](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
+- [Ref 2](https://cloud.google.com/pubsub/docs/overview)
 - **wrrc(web request/response cycle):** defined above
 
 ## Preview
