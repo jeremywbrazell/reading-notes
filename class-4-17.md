@@ -1,6 +1,6 @@
 # AWS: S3 and Lambda
 
-1. Describe “The Cloud”
+1. Describe “The Cloud":
 the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user. Large clouds often have functions distributed over multiple locations, each location being a data center. Cloud computing relies on sharing of resources to achieve coherence and economies of scale, typically using a "pay-as-you-go" model which can help in reducing capital expenses but may also lead to unexpected operating expenses for unaware users.
 [Ref](https://en.wikipedia.org/wiki/Cloud_computing)
 
@@ -12,15 +12,15 @@ When setting price, cloud providers determine the expense to maintaining the net
 
 
 ## Vocab
-- **Server Instances:**a collection of SQL Server databases which are run by a solitary SQL Server service or instance [Ref](https://www.techopedia.com/definition/32149/server-instance)
+- **Server Instances:** a collection of SQL Server databases which are run by a solitary SQL Server service or instance [Ref](https://www.techopedia.com/definition/32149/server-instance)
 - **Containers:** see above
-- **Cloud Services:**a wide range of services delivered on demand to companies and customers over the internet. These services are designed to provide easy, affordable access to applications and resources, without the need for internal infrastructure or hardware. From checking email to collaborating on documents, most employees use cloud services throughout the workday, whether they’re aware of it or not.[Ref (https://www.citrix.com/solutions/digital-workspace/what-is-a-cloud-service.html)]
-- **Cloud Architecture:**defines the technology components that are combined to build a cloud, where resources are pooled through virtualization technology and shared across a network. The components of a cloud architecture include: 
+- **Cloud Services:** a wide range of services delivered on demand to companies and customers over the internet. These services are designed to provide easy, affordable access to applications and resources, without the need for internal infrastructure or hardware. From checking email to collaborating on documents, most employees use cloud services throughout the workday, whether they’re aware of it or not.[Ref (https://www.citrix.com/solutions/digital-workspace/what-is-a-cloud-service.html)]
+- **Cloud Architecture:** defines the technology components that are combined to build a cloud, where resources are pooled through virtualization technology and shared across a network. The components of a cloud architecture include: 
 
-- A front-end platform (the client or device used to access the cloud) 
-- One or more back-end platforms (servers and storage) 
-- A cloud-based delivery methodology 
-- A network to connect cloud clients, servers, and storage  
+    - A front-end platform (the client or device used to access the cloud) 
+    - One or more back-end platforms (servers and storage) 
+    - A cloud-based delivery methodology 
+    - A network to connect cloud clients, servers, and storage  
 
 - **AWS:** a subsidiary of Amazon providing on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis [Ref](https://en.wikipedia.org/wiki/Amazon_Web_Services)
 - **EC2/Beanstalk vs Heroku:**One big difference is that Heroku’s pricing takes exponential price jumps as one adds common additional features, e.g., auto-scaling, where-as AWS pricing is fairly linear. On the other hand, Heroku is generally simpler to get up and running as AWS has a fairly steep initial learning curve. [Ref](https://codeburst.io/heroku-v-s-aws-elastic-beanstalk-1cc6f12ca3c7)
@@ -33,7 +33,7 @@ When setting price, cloud providers determine the expense to maintaining the net
 1. What are you most excited about trying to implement or see how it works? Lambda.
 
 ## Additional References
-[AWS S3](https://aws.amazon.com/s3/)
-[AWS Lambda Basics](https://www.serverless.com/aws-lambda)
-[AWS Lambda Functions](https://aws.amazon.com/lambda/)
-[CDN](https://cyberhoot.com/cybrary/content-delivery-network-cdn/)
+- [AWS S3](https://aws.amazon.com/s3/)
+- [AWS Lambda Basics](https://www.serverless.com/aws-lambda)
+- [AWS Lambda Functions](https://aws.amazon.com/lambda/)
+- [CDN](https://cyberhoot.com/cybrary/content-delivery-network-cdn/)
