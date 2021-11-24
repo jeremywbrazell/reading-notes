@@ -14,7 +14,7 @@ When setting price, cloud providers determine the expense to maintaining the net
 ## Vocab
 - **Server Instances:** a collection of SQL Server databases which are run by a solitary SQL Server service or instance [Ref](https://www.techopedia.com/definition/32149/server-instance)
 - **Containers:** see above
-- **Cloud Services:** a wide range of services delivered on demand to companies and customers over the internet. These services are designed to provide easy, affordable access to applications and resources, without the need for internal infrastructure or hardware. From checking email to collaborating on documents, most employees use cloud services throughout the workday, whether they’re aware of it or not.[Ref (https://www.citrix.com/solutions/digital-workspace/what-is-a-cloud-service.html)]
+- **Cloud Services:** a wide range of services delivered on demand to companies and customers over the internet. These services are designed to provide easy, affordable access to applications and resources, without the need for internal infrastructure or hardware. From checking email to collaborating on documents, most employees use cloud services throughout the workday, whether they’re aware of it or not.[Ref] (https://www.citrix.com/solutions/digital-workspace/what-is-a-cloud-service.html)]
 - **Cloud Architecture:** defines the technology components that are combined to build a cloud, where resources are pooled through virtualization technology and shared across a network. The components of a cloud architecture include: 
 
     - A front-end platform (the client or device used to access the cloud) 
