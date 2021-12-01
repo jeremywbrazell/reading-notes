@@ -4,7 +4,7 @@
 a programmatic function written by a software developer for a single purpose. It's then hosted and maintained on infrastructure by cloud computing companies. These companies take care of code maintenance and execution so that developers can deploy new code faster and easier.  [Ref](https://blog.hubspot.com/website/serverless-functions)
 
 **1. If you were to create a system that emulated Lambda functions, how would you do it?**
-I honestly have no idea at this point.
+I would try to make everything as scalable as possible and apply the DRY principle as much as I could.
 
 **1. Describe how a CDN(Content Delivery Network) works.**
 To minimize the distance between the visitors and your website’s server, a CDN stores a cached version of its content in multiple geographical locations (a.k.a., points of presence, or PoPs). Each PoP contains a number of caching servers responsible for content delivery to visitors within its proximity.
