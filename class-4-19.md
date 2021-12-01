@@ -2,28 +2,32 @@
 
 **1. Describe the similarities between AWS API Gateway + Lambda functions and an ExpressJS Server**
 API Gateway and Lambdas manage backend RESTful routes and CRUD functions like a server does, but are not servers since they are run in AWS. An ExpressJS Server also handles back end routes, but runs on a PORT on your computer and therefore is a full server.
-**1. List the AWS Database offerings and talk about the pros and cons of each**
-- Aurora
-    - best for: SaaS apps like ERP, CRM, and eCommerce
-- Redshift
-    - best for: Large-scale data warehouses and data migrations, analytics
-- DynamoDB
-    - best for: Mobile and web apps, gaming, IoT
-- ElastiCache
-    - best for: Caching, chat, BI and analytics, session store, gaming leaderboards
-- Neptune
-    - best for: Fraud detection, social networking, knowledge graphs, recommendation engines
-- DocumentDB
-    - best for: Content management, catalogs, user profiles
-- TimeStream
-    - best for: IoT applications, DevOps, industrial telemetry
-- Quantum Ledger Database
-    - best for: Systems of record, financial transactions, supply chain data
+
+**2. List the AWS Database offerings and talk about the pros and cons of each**
+- Aurora -- 
+    best for: SaaS apps like ERP, CRM, and eCommerce
+- Redshift --
+    best for: Large-scale data warehouses and data migrations, analytics
+- DynamoDB --
+    best for: Mobile and web apps, gaming, IoT
+- ElastiCache --
+    best for: Caching, chat, BI and analytics, session store, gaming leaderboards
+- Neptune --
+    best for: Fraud detection, social networking, knowledge graphs, recommendation engines
+- DocumentDB --
+    best for: Content management, catalogs, user profiles
+- TimeStream --
+    best for: IoT applications, DevOps, industrial telemetry
+- Quantum Ledger Database --
+    best for: Systems of record, financial transactions, supply chain data
     [Ref](https://www.jeffersonfrank.com/insights/choosing-an-aws-database)
-**1. What’s the difference between a FIFO and a standard queue?**
+
+
+**3. What’s the difference between a FIFO and a standard queue?**
 FIFO queues have essentially the same features as standard queues, but provide the added benefits of supporting ordering and exactly-once processing and ensure that the order in which messages are sent and received is strictly preserved.
 [Ref](https://medium.com/awesome-cloud/aws-difference-between-sqs-standard-and-fifo-first-in-first-out-queues-28d1ea5e153)
-**1. How can the server be assured a message was properly received?**
+
+**4. How can the server be assured a message was properly received?**
 Amazon SNS stores each message published across geographically-separated data centers. If a subscribed system isn't available, Amazon SNS executes a message delivery retry policy.[Ref](https://aws.amazon.com/sns/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
 
 ## Vocab
