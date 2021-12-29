@@ -68,7 +68,7 @@
 - [AWS: API, Dynamo and Lambda](class-4-18.md)
 - [AWS: Events](class-4-19.md)
 - [Component Based UI](class-4-26.md)
-- [Props and State](class-4-27.md)
+- [useState Hooks](class-4-27.md)
 - [Component Composition](class-4-28.md)
 - [Routing](class-4-29.md)
 - [Hash Tables](class-4-30.md)
