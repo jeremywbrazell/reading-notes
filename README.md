@@ -70,7 +70,7 @@
 - [Component Based UI](class-4-26.md)
 - [useState Hooks](class-4-27.md)
 - [Component Lifecycle/useEffect](class-4-28.md)
-- [Routing](class-4-29.md)
+- [Advanced State With Reducers](class-4-29.md)
 - [Hash Tables](class-4-30.md)
 - [Hooks API](class-4-31.md)
 - [Custom Hooks](class-4-32.md)
