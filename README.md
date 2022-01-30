@@ -76,6 +76,7 @@
 - [Custom API - Behaviors](class-4-32.md)
 - [Login & Auth](class-4-33.md)
 - [API Integration](class-4-34.md)
+- [Graphs](class-4-35.md)
 - [Application State with Redux](class-4-36.md)
 - [Combined Reducers](class-4-37.md)
 - [Redux - Asynchronous Actions](class-4-38.md)
